@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
