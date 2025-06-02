@@ -62,8 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
