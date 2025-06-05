@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
