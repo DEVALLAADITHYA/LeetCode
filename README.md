@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
