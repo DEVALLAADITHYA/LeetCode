@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
