@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
