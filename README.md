@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0200-number-of-islands) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0135-candy) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
