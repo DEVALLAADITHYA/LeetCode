@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0135-candy) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0182-duplicate-emails) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/DEVALLAADITHYA/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
